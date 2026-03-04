@@ -1,4 +1,4 @@
-/* ========== RESET & BASE ========== */
+/*========= RESET & BASE =========*/
 *,
 *::before,
 *::after {
@@ -679,4 +679,5 @@ a {
 #about {
   scroll-margin-top: 60px;
 }
+
 
